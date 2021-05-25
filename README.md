@@ -44,4 +44,4 @@ Result:
 - Indent values are accumulative, not absolute
 - All lines that start with a period "." are assumed to be a command. If you want to start your sentence with a period, you can do so by entering a backslash before the period "\\."
 
-
+Pagination is automatically added in the PDF file. (*Page X of Y* in the top right corner)
